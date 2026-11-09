@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376792197629",
+    "project_id": "true-voice-f1d27",
+    "storage_bucket": "true-voice-f1d27.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376792197629:android:cfe877cf2ff4b0d9355194",
+        "android_client_info": {
+          "package_name": "com.example.truevoice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlaHndTRVpCBRwEaUZeFT_x76UGLRbHJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
